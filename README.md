@@ -4,3 +4,9 @@
 #### Heading4
 ##### Heading5
 ###### Heading6
+
+*italic*
+
+**bold**
+
+***bold and italic***
